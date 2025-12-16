@@ -13,9 +13,8 @@ Cách chạy project
 
 1. Clone source
 ```bash
-git clone https://github.com/nghialeo2907s-cyber/project1-react-node-mysql
-cd project1-react-node-mysql
-
+git clone https://github.com/nghialeo2907s-cyber/DH52100953_DamHuynhMinhNghia
+cd DH52100953_DamHuynhMinhNghia
 
 
 2. Khởi chạy Docker
